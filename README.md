@@ -13,7 +13,7 @@
 1. In Chrome/Edge go to the extensions page (`chrome://extensions` or `edge://extensions`).
 1. Enable Developer Mode.
 1. Drag the `bypass-paywalls-chrome-master` folder anywhere on the page to import it (do not delete the folder afterwards).
-* [Image demonstrating installation steps](https://i.imgur.com/l7PyySS.png)
+* [Image demonstrating installation steps](https://i.imgur.com/M4S9082.png)
 
 **Mozilla Firefox** (Custom sites not supported)
 * [Download the latest version from the Firefox add-ons store](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-firefox/)
